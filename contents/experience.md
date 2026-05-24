@@ -8,15 +8,6 @@
 
 ---
 
-### **LoViF @ CVPR 2026: Efficient Multimodal Rating Prediction with SmolVLM2**  
-**Mar. 2026**
-
-- Won 1st place on the official leaderboard in the Challenge on Efficient VLM for Multimodal Creative Quality Scoring, with CES = 0.43 and PLCC+ = 0.41.
-- Built an efficient SmolVLM2-based multimodal regressor with mask-aware pooling and a lightweight MLP head.
-- Optimized single-pass inference under efficiency constraints, using 152.12M parameters and 31.14 GFLOPs.
-
----
-
 ### **LingoPal: Interactive HCI System for Post-Stroke Aphasia Rehabilitation**  
 **Personal full-stack HCI project**
 
