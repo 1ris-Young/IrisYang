@@ -3,11 +3,20 @@
 
 :root{
     --h-title-color:#111111;
+    --nav-accent-color:#d8dadd;
+    --muted-code-color:#6c757d;
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: solid 2px var(--nav-accent-color);
     z-index: 10000;
+}
+
+#mainNav .navbar-brand:hover,
+#mainNav .navbar-brand:active,
+#mainNav .navbar-nav .nav-item .nav-link:hover,
+#mainNav .navbar-nav .nav-item .nav-link.active {
+    color: var(--nav-accent-color);
 }
 
 .bg-bottom {
@@ -65,6 +74,10 @@ section .main-body{
 
 section .main-body p {
     margin-bottom: 0.75rem;
+}
+
+section .main-body code {
+    color: var(--muted-code-color);
 }
 
 section .main-body h3 {
