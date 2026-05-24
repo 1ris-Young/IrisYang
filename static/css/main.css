@@ -96,6 +96,10 @@ section .main-body h4 {
     margin-top: 0;
 }
 
+.home-column:last-child {
+    padding-top: 3.15rem;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
@@ -157,6 +161,10 @@ section .main-body h4 {
     .home-grid {
         grid-template-columns: 1fr;
         gap: 0.75rem;
+    }
+
+    .home-column:last-child {
+        padding-top: 0;
     }
 }
 
