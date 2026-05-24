@@ -8,9 +8,7 @@ I am a B.A. student in Logic at the Department of Philosophy, Sun Yat-sen Univer
 
 #### Education
 **Sun Yat-sen University**, B.A. in Logic, Department of Philosophy (Sep. 2022 - Jun. 2026)  
-- GPA: 3.7/4.0  
-- IELTS: 7.5  
-- Major coursework: Principles of Artificial Intelligence (90), Data and Text Analysis (93), Probability and Rational Choice (95), Algebraic Structures (90), Proof Theory (90).
+- Major coursework: Principles of Artificial Intelligence, Data and Text Analysis, Probability and Rational Choice, Algebraic Structures, Proof Theory.
 
 #### Research Interests
 LLM-based agents, reliable reasoning, workflow optimization, multi-agent systems, efficient LLM training and inference, causal learning, long-tailed NLP.
