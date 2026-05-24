@@ -1,5 +1,3 @@
-[CV](main.pdf) · [Email](mailto:Irisyoung2025@outlook.com)
-
 I am a B.A. student in Logic at the Department of Philosophy, Sun Yat-sen University, affiliated with the Institute of Logic and Cognition. My research focuses on reliable and efficient AI systems, especially LLM-based agents, workflow optimization, multi-agent coordination, and efficient LLM training and inference.
 
 #### Email
