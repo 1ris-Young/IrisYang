@@ -80,7 +80,11 @@ section .main-body h4 {
 .home-grid {
     display: grid;
     grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+    grid-template-areas:
+        "title ."
+        "overview details";
     gap: 2.5rem;
+    row-gap: 0;
     align-items: start;
 }
 
@@ -96,8 +100,16 @@ section .main-body h4 {
     margin-top: 0;
 }
 
-.home-column:last-child {
-    padding-top: 3.15rem;
+.home-title {
+    grid-area: title;
+}
+
+.home-overview {
+    grid-area: overview;
+}
+
+.home-details {
+    grid-area: details;
 }
 
 
@@ -160,11 +172,11 @@ section .main-body h4 {
 
     .home-grid {
         grid-template-columns: 1fr;
+        grid-template-areas:
+            "title"
+            "overview"
+            "details";
         gap: 0.75rem;
-    }
-
-    .home-column:last-child {
-        padding-top: 0;
     }
 }
 
