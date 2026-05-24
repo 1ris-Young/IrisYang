@@ -8,7 +8,7 @@
 }
 
 .header {
-    border-bottom: solid 2px var(--nav-accent-color);
+    border-bottom: solid 2px var(--nav-accent-color) !important;
     z-index: 10000;
 }
 
@@ -16,7 +16,7 @@
 #mainNav .navbar-brand:active,
 #mainNav .navbar-nav .nav-item .nav-link:hover,
 #mainNav .navbar-nav .nav-item .nav-link.active {
-    color: var(--nav-accent-color);
+    color: var(--nav-accent-color) !important;
 }
 
 .bg-bottom {
@@ -77,7 +77,7 @@ section .main-body p {
 }
 
 section .main-body code {
-    color: var(--muted-code-color);
+    color: var(--muted-code-color) !important;
 }
 
 section .main-body h3 {
