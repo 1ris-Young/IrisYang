@@ -1,21 +1,33 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Research Intern, HCP Lab, Sun Yat-sen University**  
+**Apr. 2024 - Present**  
+**Supervisor:** Dr. Keze Wang
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Conduct research on LLM-based agents and workflow optimization, focusing on reliability, robustness, and efficiency in tool-using and multi-step reasoning systems.
+- Develop methods for failure analysis, adaptive workflow refinement, and multi-agent coordination, including failure-mode clustering, graph-level workflow editing, and propose-and-verify optimization loops.
+- Explore efficient LLM training and inference mechanisms, including probabilistic belief updating, approximate-gradient optimization, and memory-constrained full-parameter fine-tuning.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **LoViF @ CVPR 2026: Efficient Multimodal Rating Prediction with SmolVLM2**  
+**Mar. 2026**
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+- Won 1st place on the official leaderboard in the Challenge on Efficient VLM for Multimodal Creative Quality Scoring, with CES = 0.43 and PLCC+ = 0.41.
+- Built an efficient SmolVLM2-based multimodal regressor with mask-aware pooling and a lightweight MLP head.
+- Optimized single-pass inference under efficiency constraints, using 152.12M parameters and 31.14 GFLOPs.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+---
+
+### **LingoPal: Interactive HCI System for Post-Stroke Aphasia Rehabilitation**  
+**Personal full-stack HCI project**
+
+- Developed an end-to-end rehabilitation system integrating wearable tongue-motion sensing hardware, Arduino-based multi-channel data acquisition, and a mobile interaction interface.
+- Built a full-stack mobile application for real-time sensor data collection, speech and tongue-movement analysis, personalized training workflows, and visualized rehabilitation feedback.
+- Served as the sole system designer and integrator, coordinating embedded sensing, data processing, UI interaction, and cross-module communication into a unified prototype.
+
+---
+
+### **Technical Skills**
+
+- **Programming:** Python, PyTorch (advanced), Golang, C++, MATLAB.
+- **Tools:** Linux, Docker, Git, MindSpore, Arduino.
+- **Languages:** Mandarin (native), English (IELTS 7.5).
